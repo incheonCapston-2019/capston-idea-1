@@ -2,67 +2,47 @@
 <format>
 	<title>name</title>
 	<header>
-		<character>
-			<name>김김김</name>
-			<gender>남자</gender>
-			<age>26</age>
-		</character>
-		<character>
-			<name>박박박</name>
-			<gender>남자</gender>
-			<age>23</age>
-		</character>
-		<character>
-			<name>이이이</name>
-			<gender>여자</gender>
-			<age>24</age>
-		</character>
-		<character>
-			<name>손손손</name>
-			<gender>남자</gender>
-			<age>25</age>
-		</character>
-		<character>
-			<name>정정정</name>
-			<gender>여자</gender>
-			<age>25</age>
-		</character>
+		<character name="김승우" gender="남자" age="25" voice="voice0-1"></character>
+		<character name="박성연" gender="남자" age="23" voice="voice0-2"></character>
+		<character name="이서아" gender="여자" age="24" voice="voice1-1"></character>
+		<character name="조병욱" gender="남자" age="25" voice="voice0-3"></character>
+		<character name="정다솔" gender="여자" age="25" voice="voice1-2"></character>
 	</header>
 	
 	<script>
 		<dialogue>
 			<index>1		</index>
-			<actor>김김김		</actor>
+			<actor>김승우		</actor>
 			<line>blah blah	</line>
 		</dialogue>
 		<dialogue>
 			<index>2		</index>
-			<actor>박박박		</actor>
+			<actor>박성연		</actor>
 			<line>blah blah	</line>
 		</dialogue>
 		<dialogue>
 			<index>3		</index>
-			<actor>이이이		</actor>
+			<actor>이서아		</actor>
 			<line>blah blah	</line>
 		</dialogue>
 		<dialogue>
 			<index>4		</index>
-			<actor>김김김		</actor>
+			<actor>김승우		</actor>
 			<line>blah blah	</line>
 		</dialogue>
 		<dialogue>
 			<index>5		</index>
-			<actor>손손손		</actor>
+			<actor>조병욱		</actor>
 			<line>blah blah	</line>
 		</dialogue>
 		<dialogue>
 			<index>5		</index>
-			<actor>정정정		</actor>
+			<actor>정다솔		</actor>
 			<line>blah blah	</line>
 		</dialogue>
 		<dialogue>
 			<index>6		</index>
-			<actor>정정정		</actor>
+			<actor>박성연		</actor>
 			<line>blah blah	</line>
 		</dialogue>
 	<script>
