@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<format>
+	<title>name</title>
+	<header>
+		<character>
+			<name>김김김</name>
+			<gender>남자</gender>
+			<age>26</age>
+		</character>
+		<character>
+			<name>박박박</name>
+			<gender>남자</gender>
+			<age>23</age>
+		</character>
+		<character>
+			<name>이이이</name>
+			<gender>여자</gender>
+			<age>24</age>
+		</character>
+		<character>
+			<name>손손손</name>
+			<gender>남자</gender>
+			<age>25</age>
+		</character>
+		<character>
+			<name>정정정</name>
+			<gender>여자</gender>
+			<age>25</age>
+		</character>
+	</header>
+	
+	<script>
+		<dialogue>
+			<index>1		</index>
+			<actor>김김김		</actor>
+			<line>blah blah	</line>
+		</dialogue>
+		<dialogue>
+			<index>2		</index>
+			<actor>박박박		</actor>
+			<line>blah blah	</line>
+		</dialogue>
+		<dialogue>
+			<index>3		</index>
+			<actor>이이이		</actor>
+			<line>blah blah	</line>
+		</dialogue>
+		<dialogue>
+			<index>4		</index>
+			<actor>김김김		</actor>
+			<line>blah blah	</line>
+		</dialogue>
+		<dialogue>
+			<index>5		</index>
+			<actor>손손손		</actor>
+			<line>blah blah	</line>
+		</dialogue>
+		<dialogue>
+			<index>5		</index>
+			<actor>정정정		</actor>
+			<line>blah blah	</line>
+		</dialogue>
+		<dialogue>
+			<index>6		</index>
+			<actor>정정정		</actor>
+			<line>blah blah	</line>
+		</dialogue>
+	<script>
+</format>
